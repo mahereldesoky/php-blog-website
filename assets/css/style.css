@@ -1,0 +1,11 @@
+.nav-link {
+  border-right: 1px solid #ddd !important;
+  padding: 8px 20px !important;
+}
+
+.underline{
+  height: 4px;
+  background-color: red;
+  margin-bottom: 20px;
+  width: 50px;
+}
